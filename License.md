@@ -1,4 +1,4 @@
-GlyohCreator
+GlyphCreator
 =============
 
 Copyright (c) <2025> 
